@@ -1,0 +1,20 @@
+<html>
+<head>
+<title><b><strong>HTML CLASS</b></title>
+  <body>
+    <h1 style="color:red"> <p> This is the HTML program</h1>
+  <p>NORMAL TEST</p>
+ <p>  B<sub>this text is for subscript </sub></p>
+   <p/>A<sup>this is for superscript</sup></p>
+  <p><b>Bold Text</b></p>
+   <p><i>Italic text</i></p>
+  <p><u>underlined text</u></p>
+   <p><em>emphasized</em></p>
+  <p><mark>marked text</mark></p>
+   <p><small><small>THIS TEXT IS CONVERTED IN SMALL</p>
+  <p><del>DELETED TEXT </del></p>
+   <p><ins>INSERTED TEXT</ins></p>
+   
+ </body>
+</head>
+</html>
